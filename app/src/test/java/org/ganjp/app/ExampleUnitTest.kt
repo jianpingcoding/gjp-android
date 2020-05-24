@@ -1,4 +1,4 @@
-package org.ganjp.gjp
+package org.ganjp.app
 
 import org.junit.Test
 

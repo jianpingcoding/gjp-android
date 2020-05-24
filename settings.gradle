@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='GJP'
+rootProject.name='ui-app-android'
